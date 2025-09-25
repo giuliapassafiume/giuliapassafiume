@@ -1,16 +1,32 @@
-## Hi there 👋
+<!-- Banner opcional -->
+<h1 align="center">👋 Olá, eu sou a Giulia!</h1>
 
-<!--
-**giuliapassafiume/giuliapassafiume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Graduanda em Farmácia (UFMG) <br>
+  💊 Interesse em tecnologia aplicada à saúde e indústria farmacêutica <br>
+  🐍 Estudando Python para análise de dados, automação e aplicações em saúde <br>
+  🚀 Buscando integrar inovação e ciência na área farmacêutica
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Atualmente aprendendo
+- Python para ciência de dados (pandas, numpy, matplotlib)  
+- Automação de processos e ETL de dados em saúde  
+- Introdução à inteligência artificial aplicada à área farmacêutica  
+
+---
+
+## 📫 Conecte-se comigo
+<p align="left">
+  <a href="www.linkedin.com/in/giulia-passafiume" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ufmgiulia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+✨ *Unindo ciência, tecnologia e inovação para transformar a saúde.*
