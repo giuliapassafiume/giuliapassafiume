@@ -1,7 +1,7 @@
 <!-- Banner opcional -->
 <h1 align="center">👋 Olá, eu sou a Giulia!</h1>
 
-<p align="center">
+<p align="left">
   🎓 Graduanda em Farmácia (UFMG) <br>
   💊 Interesse em tecnologia aplicada à saúde e indústria farmacêutica <br>
   🐍 Estudando Python para análise de dados, automação e aplicações em saúde <br>
